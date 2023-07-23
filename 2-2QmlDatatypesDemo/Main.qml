@@ -121,5 +121,7 @@ when we have function as array element and want to print that function's value|-
         }
 
         console.log("Date is :: " +mDate)
+        console.log("The function value is :: " +aFunction)
+        console.log("The function value is :: " +aFunction())
     }
 }
